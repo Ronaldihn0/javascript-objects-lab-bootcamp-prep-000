@@ -27,5 +27,5 @@ return object
 }
 
 var object = { key: 'value' }
- 
+
 var newObject = Object.assign({}, object)
