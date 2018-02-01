@@ -15,11 +15,3 @@ object[key] = value;
 return object
 }
 
-function deleteFromObjectByKey (object, key, value) {
-delete[key] = value;
-return object
-}
-
-var object = { key: 'value' }
- 
-var newObject = Object.assign({}, object)
