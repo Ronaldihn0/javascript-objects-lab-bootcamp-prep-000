@@ -17,5 +17,5 @@ return object
 
 function deleteFromObjectByKey (object, key, value){
   delete object[key];
-  return object;
+  return object
 }
