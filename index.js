@@ -16,7 +16,7 @@ return object
 }
 
 function deleteFromObjectByKey (object, key, value){
-object[key] = value;
+delete[key] = value;
 return object
 }
 
