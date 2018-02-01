@@ -20,9 +20,3 @@ object[key] = value;
 return object
 }
 
-var object = { key: 'value' }
-
-function deleteFromObjectByKey (object, key){
-object[key] = value;
-return object
-}
