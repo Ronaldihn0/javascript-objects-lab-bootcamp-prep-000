@@ -18,4 +18,3 @@ function deleteFromObjectByKey (object, key, value) {
   delete object[key];
   return object
 }
-
